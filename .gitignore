@@ -14,3 +14,7 @@ __pycache__/
 .vscode/
 .idea/
 
+
+# Arquivos de ambiente (senhas, configs secretas)
+.env
+
