@@ -16,5 +16,5 @@ __pycache__/
 
 
 # Arquivos de ambiente (senhas, configs secretas)
-.env
+/.env
 
